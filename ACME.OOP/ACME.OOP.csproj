@@ -8,8 +8,4 @@
         <RootNamespace>oppsample</RootNamespace>
     </PropertyGroup>
 
-    <ItemGroup>
-      <Folder Include="Procurement\" />
-    </ItemGroup>
-
 </Project>
